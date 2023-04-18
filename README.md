@@ -13,3 +13,5 @@ now we will setup linter in our feature branch.
 # install lighthouse
 
 npm install -g @lhci/cli@0.11.x
+
+npm audit fix

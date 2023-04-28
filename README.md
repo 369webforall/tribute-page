@@ -1,5 +1,5 @@
-# tribute-page
 
+<<<<<<< HEAD
 linter practice
 
 # Create development branch
@@ -15,3 +15,5 @@ now we will setup linter in our feature branch.
 npm install -g @lhci/cli@0.11.x
 
 npm audit fix
+=======
+>>>>>>> development

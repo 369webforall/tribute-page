@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 linter practice
 
 # Create development branch

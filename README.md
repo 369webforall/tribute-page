@@ -15,5 +15,5 @@ now we will setup linter in our feature branch.
 npm install -g @lhci/cli@0.11.x
 
 npm audit fix
-=======
->>>>>>> development
+
+# make change to feature branch
